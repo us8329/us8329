@@ -6,6 +6,6 @@ I recently graduated from my Masters in Computer Science (didnt feel like Bachel
 
 And now with all the knowledge I have gained, I love building impactful and meaningful applications, or protoyping with any new technology I come across - cos why not!
 
-I love to read research papers, and have written one of my own ( with 5+ citations! WOW ) on Extractive Summarization. P.S this was before ChatGPT became popular.
+I love to read research papers, and have written one of my own ( with 5+ citations! WOW ) on Extractive Summarization with Graph Neural Network and Named Entity Recognition. P.S this was before ChatGPT became popular.
 
 Would love to discuss more and be happy to connect. Feel free to reach out to me on usinha3@illinois.ed 
