@@ -8,4 +8,4 @@ And now with all the knowledge I have gained, I love building impactful and mean
 
 I love to read research papers, and have written one of my own ( with 5+ citations! WOW ) on Extractive Summarization with Graph Neural Network and Named Entity Recognition. P.S this was before ChatGPT became popular.
 
-Would love to discuss more and be happy to connect. Feel free to reach out to me on usinha3@illinois.ed 
+Would love to discuss more and be happy to connect. Feel free to reach out to me on usinha3@illinois.edu
